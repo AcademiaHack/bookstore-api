@@ -1,0 +1,8 @@
+development:
+  app_name: 'Otra cosa'
+  
+test:
+  SECRET_KEY_BASE: '988ab8d5ea57bb5530e98a2c2b40be236a4f2bd412dadc90809056bdbc64f1bedcd1f4458de51c7497caa9ce8bb36253c09a2053c2802050439e9247cec1323a'
+
+production:
+  SECRET_KEY_BASE: '6fe945268c90ee0d9d6d485a76503ef93bb3b814736bd193bfb7fd5e45a95d88e43c2cb60c5f916ac239730eea8ee2db2d6782f2e5cc30715a4bb92d13c8893f'
